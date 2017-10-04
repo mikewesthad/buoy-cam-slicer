@@ -6,6 +6,6 @@ A tool for visualizing the history of buoy cam images (see [mikewesthad/buoy-cam
 
 Sketches (click to see full size):
 
-[![](slices/41424.png)](https://raw.githubusercontent.com/mikewesthad/buoy-cam-slicer/master/images/41424.png)
+[![](slices/41424.png)](https://raw.githubusercontent.com/mikewesthad/buoy-cam-slicer/master/slices/41424.png)
 
-[![](slices/41048.png)](https://raw.githubusercontent.com/mikewesthad/buoy-cam-slicer/master/images/41048.png)
+[![](slices/41048.png)](https://raw.githubusercontent.com/mikewesthad/buoy-cam-slicer/master/slices/41048.png)
